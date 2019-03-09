@@ -6,7 +6,7 @@ function db_name() {
    return "flights_db";
 }
 function max_layovers() {
-   return 2;
+   return 5;
 }
 
 function mins_min_layover() {
